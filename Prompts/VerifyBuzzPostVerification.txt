@@ -1,0 +1,9 @@
+Generate a Playwright test for the following scenario:
+
+1. Navigate https://opensource-demo.orangehrmlive.com/
+2. Login to OrangeHRM with "Admin" / "admin123"
+3. Go to the "Buzz" module
+4. Verify that the "Latest Posts" section is visible
+5. Check that there's a text box to post a new message
+6. Enter a message like "Excited for testing!" and click "Post"
+7. Verify that the post appears in the feed
